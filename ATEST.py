@@ -1,1 +1,1 @@
-int
+inta
